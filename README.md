@@ -22,4 +22,4 @@ The following tools were necessary to conclude this project, which the objective
 
 <h4>Mobile Version</h4>
 
-<img src=">
+<img src="https://github.com/DAVIDCOIMBRALOPES/MEUS-PROJETOS-DEVCLUB/blob/master/IMG/EASY%20SHOPPING%20MOBILE.png?raw=true">
